@@ -18,7 +18,6 @@ Try it: https://modos.github.io/Persian-Blog-Nuxtjs-Bulma/dist/
 ## Libraries
  - Eslint for Syntax Rules <br>
  - Nuxt Content <br>
-<br>
 
 ## Resources
 Before run this project locally or deploy, i suggest you to read these articles:
