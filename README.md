@@ -8,6 +8,7 @@ Try it: https://modos.github.io/Persian-Blog-Nuxtjs-Bulma/dist/
 ✅ Category & Tag Pages <br>
 ✅ Pagination <br>
 ✅ Custom 404 themplate
+✅ Search Box
 
 ## Todo
 🟥 More Seo Meta Tags (like twitter card) <br>
