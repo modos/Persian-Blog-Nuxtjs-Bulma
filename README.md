@@ -7,7 +7,7 @@ Try it: https://modos.github.io/Persian-Blog-Nuxtjs-Bulma/dist/
 ✅ Contact Form (made with https://formsubmit.co) <br>
 ✅ Category & Tag Pages <br>
 ✅ Pagination <br>
-✅ Custom 404 themplate
+✅ Custom 404 themplate <br>
 ✅ Search Box
 
 ## Todo
